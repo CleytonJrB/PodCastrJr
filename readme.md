@@ -1,10 +1,10 @@
-<div aling="center">
+<div align="center">
 <img src="./public/logo-podcastr.svg" alt="Logo PodCastr">
 </div>
 
-## .
-
-<h1 aling="center" color="#6F48C9"> PodCarst</h1>
+## PodCarst
+<h4 align="center">Developed during @Rocketseat NLW#05 free training.
+</h4>
 
 ## Technologies
 - [ReactJS](https://reactjs.org/)
@@ -21,3 +21,4 @@ $ yarn server
 # Run the web server
 $ yarn dev
 ```
+The app will be available for access on your browser at `http://localhost:3000`

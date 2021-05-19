@@ -1,6 +1,8 @@
 <div aling="center">
-<img src="./public/logo-podcastr-svg" alt="Logo PodCastr">
+<img src="./public/logo-podcastr.svg" alt="Logo PodCastr">
 </div>
+
+## .
 
 <h1 aling="center" color="#6F48C9"> PodCarst</h1>
 

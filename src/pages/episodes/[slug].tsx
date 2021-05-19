@@ -7,7 +7,9 @@ import { convertDurationToTimeString } from '../../utils/convertDurationToTimeSt
 import Image from 'next/image';
 import Link from 'next/link';
 
+
 import styles from './episode.module.scss';
+
 
 type Episode = {
     id: string;

@@ -1,10 +1,14 @@
 <div align="center">
-<img src="./public/logo-podcastr.svg" alt="Logo PodCastr">
+<img src=".github/logo-podcastr.svg" alt="Logo PodCastr">
 </div>
 
 ## PodCarst
 <h4 align="center">Developed during @Rocketseat NLW#05 free training.
 </h4>
+
+![Podcastr view](.github/podcastr1.png)
+
+![Podcastr view](.github/podcastr2.png)
 
 ## Technologies
 - [ReactJS](https://reactjs.org/)
